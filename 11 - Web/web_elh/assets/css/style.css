@@ -1,0 +1,59 @@
+.header{
+    /* Change the size of your font to 60 pixels high. */
+    font-size: 60px;
+    /* Put a 15-pixel margin at the bottom of the heading. */
+    margin-bottom: 0px;
+    padding-left: 15px;
+    padding-right: 15px;
+  
+}
+
+#header_id{
+    /* Change the size of your font to 60 pixels high. */
+    font-size: 25px;
+    /* Align the text to the center of its enclosing element (e.g. div). */
+    text-align: center;
+    /* Put a 15-pixel margin at the top of the heading. */
+    margin-top: 1px;
+    /* Put a 15-pixel margin at the bottom of the heading. */
+    margin-bottom: 0px;
+    padding: auto;
+}
+
+.row{
+    /* Put a 15-pixel margin at the bottom of the heading. */
+    margin-bottom: 50px;
+}
+
+.container_box{
+    padding: 20px;
+    background-color: white;
+
+}
+
+#font{
+    font-size: 25px;
+    text-align: left;
+    padding: auto;
+    padding-left: 15px;
+}
+
+#image_size{
+    width: 100%;
+    height: 100%;
+}
+
+.body{
+    background-color: gray;
+}
+
+.table_format{
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 50px;
+}
+
+.data_body{
+    background-color: white;
+}
+
